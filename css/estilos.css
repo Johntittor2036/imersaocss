@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://4.bp.blogspot.com/-V_xHc3j2CGA/WAqfwIL-NXI/AAAAAAAAAzs/ORuklc3HwnIwa3GoUbgNE-CSol2Wav5qACLcB/s1600/clock-time-hd-wallpaper.jpg');
+    background-size: auto 120vh;
+    font-family: Arial;
+    height: 100vh
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around
+  }
+  
+  .menu li {
+    list-style:none;
+  }
+  
+  a{
+     color: Gold;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: white; 
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic; 
+  }
